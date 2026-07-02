@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "TIS Radio",
+    "slug": "tisradio",
+    "version": "2.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "userInterfaceStyle": "dark",
+    "android": {
+      "package": "ua.tranceisstar.radio",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/icon.png",
+        "backgroundColor": "#07070f"
+      }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "3d337a08-a812-4ee9-9cf5-58248e71eb87"
+      }
+    }
+  }
+}
